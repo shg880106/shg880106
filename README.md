@@ -2,41 +2,41 @@
 
 ## Welcome to my GitHub profile! 
 
-### About me:
+## About me:
 - 🏡   I'm from Cuba & live in Belgium.
 - 🎓   Graduated as a Bachelor of Computer Engineering (2011) at University of Computer Science (UCI), Havana, Cuba.
-- 💁   Highly professional Bachelor’s degree in Software Engineering with over 10 years of experience in software analysis and the development of web applications. Expertise includes JavaScript/TypeScript, React, HTML/CSS, Microsoft .NET technologies, and Scrum.
-        A results-driven team player with strong interpersonal skills, capable of managing multiple tasks simultaneously. Always eager to collaborate and assist colleagues. Adept at working under pressure and committed to delivering high-quality work on time.
+- 💁   Highly professional Bachelor’s degree in Software Engineering with over 10 years of experience in software analysis and the development of web applications. Expertise includes JavaScript/TypeScript, React, HTML/CSS, Microsoft .NET technologies, and Scrum. 
+        A results-driven team player with strong interpersonal skills, capable of managing multiple tasks simultaneously. Always eager to collaborate and assist colleagues. Adept at working under pressure and committed to delivering high-quality work on time. 
         Passionate about learning new technologies and tackling technically challenging projects in analysis, design, and development.
 - 🌱   I am currently taking training courses to refresh and expand my knowledge as a Software Developer.
         The courses include: Programming Logic, SQL, Data Analysis, JavaScript, HTML/CSS, OOP, C#, Regular Expressions, Test-Driven Development, ASP.NET MVC, Entity Framework, Web API, Razor Pages and SCRUM.
 
-### Softs Skills:
+## Softs Skills:
 - Analytical
 - Team player
 - Fast learning
 - Multitask
 
-### Programming Languages:         
+## Programming Languages:         
 - C#
 - JavaScript
 
-### Front-End Technologies:
+## Front-End Technologies:
 - HTML
 - CSS
 
-### Framewroks:
+## Framewroks:
 - Blazor
 - React
 - Razor
 - .NET
 
-### Back-End / Database:
+## Back-End / Database:
 - PostgreSQL
 - SQL Server
 - MySQL
 
-### Tools:
+## Tools:
 - GitHub
 - Postman
 - Visual Studio Code
@@ -45,25 +45,25 @@
 - Jira
 - Trello
   
-### Methodologies: 
+## Methodologies: 
 - Scrum
 - Agile
 
-### Patterns:  
+## Patterns:  
 - Repository
 - MVC
   
-### Others:
+## Others:
 - JSON
 - Swagger
 - OOP 
 - TDD
 
-### Status:
+## Status:
 Open for new challenges and opportunities.
 
-### Social:
-https://www.linkedin.com/in/saily-hurtado-gracia
+## Social: 
+[Linkedin](https://www.linkedin.com/in/saily-hurtado-gracia)
 
 ### Interest:
 - Coding
