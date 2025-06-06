@@ -29,7 +29,7 @@
 - CSS
 - Bootstrap
 
-## Framewroks:
+## Frameworks:
 - Blazor
 - React
 - Razor
