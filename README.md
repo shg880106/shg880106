@@ -9,13 +9,16 @@
         A results-driven team player with strong interpersonal skills, capable of managing multiple tasks simultaneously. Always eager to collaborate and assist colleagues. Adept at working under pressure and committed to delivering high-quality work on time. 
         Passionate about learning new technologies and tackling technically challenging projects in analysis, design, and development.
 - 🌱   I am currently taking training courses to refresh and expand my knowledge as a Software Developer.
-        The courses include: Programming Logic, SQL, Data Analysis, JavaScript, HTML/CSS, OOP, C#, Regular Expressions, Test-Driven Development, ASP.NET MVC, Entity Framework, Web API, Razor Pages and SCRUM.
+        The courses include: Programming Logic, SQL, Data Analysis, JavaScript, HTML/CSS, OOP, C#, Regular Expressions, Test-Driven Development, ASP.NET MVC, Entity Framework, Web API, Razor Pages, React and SCRUM.
 
 ## Softs Skills:
 - Analytical
 - Team player
+- Proactive
 - Fast learning
 - Multitask
+- Organized
+- Adaptable
 
 ## Programming Languages:         
 - C#
@@ -24,6 +27,7 @@
 ## Front-End Technologies:
 - HTML
 - CSS
+- Bootstrap
 
 ## Framewroks:
 - Blazor
@@ -52,6 +56,7 @@
 ## Patterns:  
 - Repository
 - MVC
+- Design Patterns (recent knowledge)
   
 ## Others:
 - JSON
@@ -60,7 +65,8 @@
 - TDD
 
 ## Status:
-Open for new challenges and opportunities.
+Open for new challenges and opportunities. Based in Antwerp, fluent in English, native Spanish speaker, and Dutch at B2 level (continuing to improve every day). Fully authorized to work in Belgium and eager to contribute to impactful client projects.
+
 
 ## Social: 
 [Linkedin](https://www.linkedin.com/in/saily-hurtado-gracia)
@@ -70,3 +76,6 @@ Open for new challenges and opportunities.
 - Languages
 - Puzzle solving
 - Traveling
+- Reading
+- Continuous learning
+- Dancing
